@@ -62,7 +62,7 @@ Run the notebooks in order: 18 writes the answers that 22 evaluates. Each notebo
 | The `params.yaml` keys, with your own values | The recorded fixtures and caches |
 | `tests/test_isolation_ci.py`, as the pattern for your CI isolation test | |
 
-For your CS2 repository, install the package list on the tutorial's "Environment setup" slide; it adds `instructor`, a provider SDK and `sentence-transformers` for live calls and open embeddings.
+For your CS2 repository, install the package list on the tutorial's "Environment setup" slide; it adds `instructor`, a provider SDK and `sentence-transformers` for live calls and open embeddings .
 
 **The notebooks teach; your Case Study 2 code is your own work.** The pieces CS2 grades (fact store, reconciliation, retrieval, linter, service, evaluation) start from the slides, but you build them in your repository, on your variant, and they must meet the CS2 acceptance criteria.
 
